@@ -12,7 +12,7 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 NC='\033[0m'
 
-REPO="https://raw.githubusercontent.com/yourusername/nexus-tunnel/main"
+REPO="https://raw.githubusercontent.com/nexus-bot-dev/ayy/main"
 
 clear
 
