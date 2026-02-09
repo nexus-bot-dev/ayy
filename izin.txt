@@ -1,6 +1,6 @@
 # NEXUS TUNNEL LICENSE FILE
 # Format: ### IP_VPS MASA_AKTIF USERNAME_TELEGRAM
 
-### 103.123.45.67 2025-12-31 @admin_nexus
+### 47.237.5.125 2027-12-31 @admin_nexus
 ### 104.234.56.78 2025-06-30 @user_premium
 ### 105.111.22.33 2025-03-31 @reseller_indo
